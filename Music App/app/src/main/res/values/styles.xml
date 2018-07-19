@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="text_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">45sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">#061630</item>
+    </style>
+    <style name="artist">
+        <item name="android:textSize">35sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">#776f6e</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+    <style name="song">
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textColor">#ad2d1d</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:background">#776f6e</item>
+    </style>
+    <style name="payment">
+        <item name="android:textSize">35sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:background">#776f6e</item>
+    </style>
+    <style name="button">
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+    </style>
+</resources>

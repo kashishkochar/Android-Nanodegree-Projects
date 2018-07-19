@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">news app</string>
+    <string name="btn">search</string>
+    <string name="no_internet">No Internet Connectivity </string>
+    <string name="no_data">No Data Available</string>
+    <string name="search_here">search here</string>
+    <string name="by">By: </string>
+    <string name="news">NEWS HEADING</string>
+    <string name="details">DETAIL HEADING</string>
+    <string name="author">Unknown</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">Quiz App</string>
+    <string name="quiz">Quiz Questions</string>
+    <string name="q1">When did the first comercial version of android 1.0 launched?</string>
+    <string name="q11">september 2008</string>
+    <string name="q12">november 2008</string>
+    <string name="q13">september 2009</string>
+    <string name="q14">october 2009</string>
+    <string name="q2">Which is the oldest version of android among the following given?</string>
+    <string name="q21">Eclair</string>
+    <string name="q22">Cupcake</string>
+    <string name="q23">Froyo</string>
+    <string name="q24">Donut</string>
+    <string name="q3">Which layout is used for relative positioning in android application?</string>
+    <string name="q31">RelativeLayout</string>
+    <string name="q32">PositioningLayout</string>
+    <string name="q33">LinearLayout</string>
+    <string name="q34">ScrollLayout</string>
+    <string name="q4">What is JNI in android?</string>
+    <string name="q41">Write Your Answer</string>
+    <string name="q5">What is Manifest.xml in android?</string>
+    <string name="q51">It has the information about activities in an application.</string>
+    <string name="q52">It has information about the layout in an application.</string>
+    <string name="q53">It has all the information about an application.</string>
+    <string name="q54">None of the above.</string>
+    <string name="submit">Submit Answers</string>
+</resources>

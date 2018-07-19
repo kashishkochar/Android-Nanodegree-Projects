@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical"
+    tools:context="com.example.android.tourism.MainActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/historical">
+
+        <TextView
+            android:id="@+id/historical"
+            style="@style/main_headings"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/h1" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/food">
+
+        <TextView
+            android:id="@+id/food"
+            style="@style/main_headings"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/h2" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/adventure">
+
+        <TextView
+            android:id="@+id/adventure"
+            style="@style/main_headings"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/h3" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/night_life">
+
+        <TextView
+            android:id="@+id/night_life"
+            style="@style/main_headings"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/h4" />
+    </FrameLayout>
+</LinearLayout>

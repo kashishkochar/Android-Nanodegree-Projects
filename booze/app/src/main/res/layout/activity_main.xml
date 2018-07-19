@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.yourowncard.MainActivity">
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:src="@drawable/bars"
+    android:scaleType="centerCrop"
+    />
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A NIGHT TO REMEMBER"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:padding="10dp"
+        android:textStyle="bold"
+
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="From Kashish"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="20dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@android:color/white"
+            android:id="@+id/textView" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text"
+
+            android:text="come for boos and stay for booze"
+            android:textAlignment="center"
+            android:textColor="#808080"
+            android:textStyle="italic"
+            android:textSize="25sp" />
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="tonight:"
+            android:textColor="#f79f24"
+            android:padding="8dp"
+            android:textStyle="italic"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_centerInParent="true"
+            android:layout_alignParentLeft="true"
+            android:textSize="32sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#abba68"
+            android:layout_alignRight="@id/text2"
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:text=" @party animals"
+            android:textSize="36sp"
+            android:textStyle="bold"/>
+</RelativeLayout>

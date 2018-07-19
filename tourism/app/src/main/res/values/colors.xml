@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="historical">#CA2A07</color>
+    <color name="food">#A1270D</color>
+    <color name="adventure">#6A1D0D</color>
+    <color name="night_life">#3E1006</color>
+    <color name="bg">#300901</color>
+</resources>

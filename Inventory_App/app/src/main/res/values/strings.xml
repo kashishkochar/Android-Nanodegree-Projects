@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Inventory_App</string>
+
+    <string name="editor_insert_pet_successful">pet saved</string>
+
+    <string name="editor_insert_pet_failed">Error With Saving pet</string>
+
+    <string name="empty_view_title_text">Its a bit lonely here</string>
+
+    <string name="empty_view_subtitles_text">No records</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_update_pet_failed">failed</string>
+
+    <string name="editor_update_pet_succesfull">Succesful</string>
+
+    <string name="editor_delete_pet_failed">Not Deleted</string>
+
+    <string name="editor_delete_pet_succesfull">succesfully Deleted</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="unknown_breed">Unknown Breed</string>
+
+    <string name="delete_dialog_msg">Delete this pet</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="add_new_product">Add New Product</string>
+
+    <string name="name_of_product">Name Of Product:</string>
+
+    <string name="cost">Cost:</string>
+
+    <string name="quantity">Quantity:</string>
+
+    <string name="select_image">Select Image:</string>
+
+    <string name="gallery">Gallery</string>
+
+    <string name="buy">Buy</string>
+
+    <string name="delete_all_pets">Delete All Pets</string>
+</resources>

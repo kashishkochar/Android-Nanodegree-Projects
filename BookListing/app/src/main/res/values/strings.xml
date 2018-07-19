@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BookListing</string>
+    <string name="search_string">Search</string>
+    <string name="internet">No Internet Connectivity</string>
+    <string name="empty">No Results Found</string>
+    <string name="book_name">Name of the book</string>
+    <string name="author_name">Author Name</string>
+    <string name="no_data">No data available</string>
+    <string name="no_internet">No Internet Connectivity</string>
+
+</resources>
